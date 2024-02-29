@@ -1,2 +1,2 @@
 # My Website
- a website that contains information about me such as a project portfolio and resume
+Prepare yourselves for the awe-inspiring journey of Dalton Crawley, a senior at Mississippi State University on the exhilarating path toward a degree in computer engineering, set to triumphantly graduate in the fall semester of 2024. When not immersed in the depths of academia, Dalton seeks solace in the crucible of intense video games, where the challenge fuels his relaxation. With unwavering determination and occasional setbacks that only add to the thrill, Dalton is poised to showcase his remarkable journey of personal and academic growth. Brace yourselves, for you are about to witness the evolution of a relentless force in pursuit of excellence.
